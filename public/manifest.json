@@ -1,17 +1,16 @@
 {
+  "author": "ETN3",
+  "name": "Unfinished-Todos-Rollover",
+  "description": "Plugin will auto-move unfinished tasks to the next day, preserving task hierarchies, and offer customizable rollover times and a manual trigger.",
+  "enableOnMobile": true,
+  "id": "ETN3-rs2msaw",
   "manifestVersion": 1,
-  "id": "plugin_template",
-  "name": "Plugin Template",
-  "author": "remnote",
-  "repoUrl": "",
   "version": {
     "major": 0,
     "minor": 0,
     "patch": 1
   },
-  "theme": [],
-  "enableOnMobile": false,
-  "description": "",
+  "repoUrl": "https://github.com/blackthunder101/remnote-plugin-template-react",
   "requestNative": false,
   "requiredScopes": [
     {
